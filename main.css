@@ -3,14 +3,16 @@ body {margin: 0; background-color: #f8f8f8;}
      display: inline-block;
      width: 800px;
      margin-left: calc(50% - 400px);
-      background-color: yellow;}
- img {
+     background-color: yellow;}
+
+ header > img {
      float: left;
  }
  nav {
      float: right;
  }
- a {}
+nav > a {}
+
  main {
      display: inline-block;
      width: 800px;
@@ -21,6 +23,8 @@ body {margin: 0; background-color: #f8f8f8;}
  }
  h1 {}
  p{}
- img{
+ 
+ main > img{
      float: right;
  }
+ 
