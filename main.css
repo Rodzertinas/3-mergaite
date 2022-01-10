@@ -10,18 +10,11 @@ body {margin: 0; background-color: #f8f8f8;}
  }
  nav {
      float: right;
-
-
  }
 nav > a {}
 
-
-
-
-
-
  main {
-     display: inline-block;
+     display: inline-block; width: 300px;
      width: 800px;
      margin-left: calc((100% - 800px) / 2);
     background-color: pink;}
