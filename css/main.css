@@ -1,8 +1,13 @@
+@import './home.css';
+
 body {
-    margin: 0;
     background-color: #f8f8f8;
+    margin: 0;
+    
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
-        sans-serif;}
+        sans-serif;
+}
+
 .main-header {
     width: 1000px;
     float: left;

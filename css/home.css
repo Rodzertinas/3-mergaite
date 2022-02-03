@@ -1,0 +1,24 @@
+
+@media(max-width: 1500px){
+   html {
+    width: 1000px;
+    float: left;
+    margin-top: 30px;
+    margin-left: calc((100% - 1000px) / 2);} 
+}
+ 
+@media(max-width: 1000px){
+    html {
+     width: 1200px;
+     float: left;
+     margin-top: 30px;
+     margin-left: calc((50% - 500px) / 2);} 
+ }
+ 
+@media(max-width: 900px){
+    html {
+     width: 1000px;
+     float: left;
+     margin-top: 30px;
+     margin-left: calc((100% - 1000px) / 2);} 
+ }
